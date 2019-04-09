@@ -1,0 +1,5 @@
+{
+    "": "api\/user",
+    "home": "home",
+    "test": "login\/form\/{id}"
+}
